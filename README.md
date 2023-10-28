@@ -86,14 +86,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Aayush0606&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BEN-10-AP&color=red&style=flat" alt="Atul Pandey" /> </p>
 *************
 
-![](https://komarev.com/ghpvc/?username=BEN-10-AP&color=red)
+
