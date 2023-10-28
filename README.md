@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-# About ME 💬 :
+
 
 ### - Engineering Student | UnPro Gamer | Occasional Writer |.
 
