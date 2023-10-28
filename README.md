@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 
 ### - Engineering Student | UnPro Gamer | Occasional Writer 
 Interested in Thermal Energy Storage System and thermal management of lithium ion batteries
-C++ | Python | ANSYS Fluent | COMSOL | SolidWorks
+</br>
+C++ | JavaScript | Python | ANSYS Fluent | COMSOL | SolidWorks
 
 <img hight="400" width="500" alt="GIF" align="right" src="/1937.gif">
 
-### - Learning :
+### - Mastering :
 - ✨ Data Structures & Algorithms
 - ✨ Web Devlopment
 - ✨ Machine Learning
@@ -41,7 +42,6 @@ C++ | Python | ANSYS Fluent | COMSOL | SolidWorks
 
 </br>
 </br>
-</br>
 
 
 
@@ -53,7 +53,7 @@ C++ | Python | ANSYS Fluent | COMSOL | SolidWorks
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 
-</br>
+
 </br>
 </br>
 
