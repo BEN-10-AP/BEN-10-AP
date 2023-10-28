@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-### - Engineering Student | UnPro Gamer | Occasional Writer |.
+### - Engineering Student | UnPro Gamer | Occasional Writer |
 
 <img hight="400" width="500" alt="GIF" align="right" src="/1937.gif">
 
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - ✨ Gaming Addict
 - ✨ Table Tennis
 - ✨ Chess
+- ✨ Speed Cubing
 - ✨ Guitar
 
 </br>
