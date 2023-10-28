@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 
 
-### - Engineering Student | UnPro Gamer | Occasional Writer |
+### - Engineering Student | UnPro Gamer | Occasional Writer 
+Interested in Thermal Energy Storage System and thermal management of lithium ion batteries
+C++ | Python | ANSYS Fluent | COMSOL | SolidWorks
 
 <img hight="400" width="500" alt="GIF" align="right" src="/1937.gif">
 
