@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Konichiwa 👋
+# Hi 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="assets/208593.gif">
@@ -27,18 +27,17 @@ Here are some ideas to get you started:
 
 # About ME 💬 :
 
-### - I'm 19 years old Tech Enthusiast from India.
+### - Engineering Student | UnPro Gamer | Occasional Writer |.
 
 <img hight="400" width="500" alt="GIF" align="right" src="assets/1936.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Web Devlopment
-- ✨ App Devlopment
+- ✨ Machine Learning
 
 ### - Hobbies : 
 - ✨ Gaming Addict
-- ✨ Watching Anime
 
 </br>
 </br>
@@ -47,33 +46,7 @@ Here are some ideas to get you started:
 
 
 
-# Contact Me :
 
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="assets/93195.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:aayushsharma0909@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/aayush-sharma-344497216">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
 
 <i>Random dev joke for you!
 </i><br>
@@ -88,6 +61,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BEN-10-AP&color=red&style=flat" alt="Atul Pandey" /> </p>
-*************
+
 
 
