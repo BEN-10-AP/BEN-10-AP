@@ -14,15 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋
+# Atul's here 👋
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets/208593.gif">
-</div>
 
-</br>
-</br>
-</br>
 
 
 # About ME 💬 :
