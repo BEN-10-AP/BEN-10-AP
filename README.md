@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### - Engineering Student | UnPro Gamer | Occasional Writer |.
 
-<img hight="400" width="500" alt="GIF" align="right" src="assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="/1936.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
