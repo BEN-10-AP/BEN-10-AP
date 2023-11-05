@@ -40,6 +40,7 @@ C++ | JavaScript | mySQL | Python | ANSYS Fluent | COMSOL | SolidWorks
 - ✨ Chess
 - ✨ Speed Cubing
 - ✨ Guitar
+- ✨ Writing & Reading on Quora
 
 </br>
 </br>
