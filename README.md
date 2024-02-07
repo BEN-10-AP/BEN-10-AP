@@ -29,10 +29,7 @@ C++ | JavaScript | mySQL | Python | ANSYS Fluent | COMSOL | SolidWorks
 
 <img hight="400" width="500" alt="GIF" align="right" src="/1937.gif">
 
-### - Mastering :
-- ✨ Data Structures & Algorithms
-- ✨ Web Devlopment
-- ✨ Machine Learning
+
 
 ### - Hobbies : 
 - ✨ Gaming Addict
