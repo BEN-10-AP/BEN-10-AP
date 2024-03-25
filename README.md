@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 ### - Engineering Student | UnPro Gamer | Occasional Writer 
 Special interest in Thermal Energy Storage System and Thermal Management of Batteries
 </br>
+ML Fanatic
+</br>
 </br>
 C++ | JavaScript | mySQL | Python | ANSYS Fluent | COMSOL | SolidWorks
 
